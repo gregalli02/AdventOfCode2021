@@ -8,7 +8,7 @@ class Comando {
 		int valore;
 
 		Comando(string s) {
-			direzione = s.substr(0, s.find(' ')); 
+			direzione = s.substr(0, s.find(' '));
 			char carattere_valore = s[s.length()-1];
 			valore = carattere_valore - '0';
 			if (direzione == "up")
@@ -23,7 +23,7 @@ int main()
 	ifstream input("numberDay2.txt");
 	string stringa;
 	int horizontal = 0, depth = 0;
-	
+
 	while (getline(input, stringa))
 	{
 		Comando comando(stringa);
@@ -36,7 +36,7 @@ int main()
 			depth += comando.valore;
 		}
 	}
-	
+
 	cout << (horizontal * depth);
 	input.close();
 	return 0;
