@@ -1,0 +1,16 @@
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\CSharp_Fusion.exe
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\CSharp_Fusion.deps.json
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\CSharp_Fusion.runtimeconfig.json
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\CSharp_Fusion.runtimeconfig.dev.json
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\CSharp_Fusion.dll
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\ref\CSharp_Fusion.dll
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\bin\Debug\net5.0\CSharp_Fusion.pdb
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.csproj.AssemblyReference.cache
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.AssemblyInfoInputs.cache
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.AssemblyInfo.cs
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.csproj.CoreCompileInputs.cache
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.dll
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\ref\CSharp_Fusion.dll
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.pdb
+E:\Progetti\AdventOfCode2021\day2\CSharp_Fusion\CSharp_Fusion\obj\Debug\net5.0\CSharp_Fusion.genruntimeconfig.cache
